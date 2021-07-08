@@ -1,7 +1,7 @@
 # Side-Hustle-Tasks
 This is a repository created for the Side Hustle Internship Tasks
 
-# Side Hustle task 3 solution
+## Side Hustle task 3 solution
 
 This is a solution to the Side Hustle Task for week 3.
 [Side Hustle](https://sidehustle.ng/). Side hustle equip Nigerian youths with the right skills to prepare them for employment. 
