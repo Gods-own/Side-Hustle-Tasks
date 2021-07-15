@@ -134,12 +134,8 @@ main {
 }
 
 @media (max-width: 470px) {
-	.container h2 {
-		background: #222;
-		color: #fff;
-		padding: 16px;
-		border-radius: 4px;
-		margin-bottom: 40px;
+        .container{
+		margin-top: -150px;
 	}
 	h2 {
 	    font-size: 20px;
@@ -180,4 +176,10 @@ main {
 	nav a {
   font-size: 10px;
 }
+}
+
+@media (max-height: 400px){
+	.container{
+		margin-top: 0;
+	}
 }
